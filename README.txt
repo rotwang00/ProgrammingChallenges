@@ -1,30 +1,30 @@
 ProgrammingChallenges
 List of programming challenges by difficulty and category
 
-Practical					             	:	1-43, 125-139, 140-144
-Algorithmic		          		  	:	44-69, 134-134
+Practical	             	:	1-43, 125-139, 140-144
+Algorithmic		  	:	44-69, 134-134
 Artificial Intelligence	      	:	70-77
 Compiler/Interpreter/Debugger 	:	78-90, 133-133
-Emulation/Modeling				      :	91-103, 145-145
-Games						            	  :	104-132
+Emulation/Modeling	        :	91-103, 145-145
+Games			        :	104-132
 
 Easy
-4	Markov Chain Sentence Generator #	(Include Shitposting Capabilities)
-10	To-Do List Application # (Web app or CLI)
-15	Chatbot #	(With conversation retention)
+4	Markov Chain Sentence Generator (Include Shitposting Capabilities)
+10	To-Do List Application (Web app or CLI)
+15	Chatbot (With conversation retention)
 18	Image to ASCII Art
-25	Imageboard	(Imagine vichan)
+25	Imageboard (Imagine vichan)
 35	Create an HSV Color Representation
 42	Port Scanner
 43	Old School Demo Effect (Plasma, Tunner, Scrollers, Zoomers, etc...)
-DONE    44 Fizzbuzz # (BONUS: In assembly)
+DONE    44 Fizzbuzz (BONUS: In assembly)
 45	RPN Calculator
-46	Counts occurrences of characters in a Given String # (Inlcude support for unicode character)
+46	Counts occurrences of characters in a Given String (Include support for unicode character)
 47	Tower of Hanoi
 50	Calculate the first (n) digits of pi
 52	Given an Array of Stocks's values ofer time, find the period of time where the stocks could have made the most money
 53	Highest Prime Factor Calculator
-56	Password Generator # (Let User Choose Options)
+56	Password Generator (Let User Choose Options)
 59	Ceasar Cipher Cracker
 61	ROT 13
 64	Encrypt/Decrypt Text: Implement at least one from http://rumkin.com/tools/cipher/collection
@@ -39,9 +39,9 @@ DONE    44 Fizzbuzz # (BONUS: In assembly)
 107	Snake
 111	Rock Paper Scissors
 122	Design a Game Engine in Unity
-123 Yahtzee
+123 	Yahtzee
 124	Oil Panic
-127 Connect Four
+127 	Connect Four
 132	Simon
 134	Ulam Spiral
 138	PDF Tagger
@@ -54,19 +54,19 @@ Medium
 5	English Sentence Parser that Points to the Context of a Sentence
 6	MIDI Player + Editor
 7	Stock Market Simulator Using Yahoo Spreadsheet Data
-9	graphic Calculator # (BONUS: Graph the Function's Derivatives)
+9	graphic Calculator (BONUS: Graph the Function's Derivatives)
 12	TCP/UDP Chat Server + Client
 14	Shazam
-16	Curses Text Editor # (With Emacs/Vim Keybindings)
+16	Curses Text Editor (With Emacs/Vim Keybindings)
 17	Paint Clone
 19	Booru (Image Board) Image Downloader
 20	Image Converter
 21	ID3 Reader
-23	C++ IDE plugin for Sublime/Atom #	(Auto-Complete, Go-To Symbol Declaration and Definition using Clang's AST)
+23	C++ IDE plugin for Sublime/Atom (Auto-Complete, Go-To Symbol Declaration and Definition using Clang's AST)
 24	Simple Version Control supporting checkout, commit (with commit messages), unlocking, and per-file configuration of number of revision kept
 26	Password Manager
 29	Key Press bot
-30	IP/URL Obsucrifaction #	(http://www.pc-help.org/obscure.htm)
+30	IP/URL Obsucrifaction (http://www.pc-help.org/obscure.htm)
 31	Radix Base Converter (Given a radix base, convert it to decimal)
 33	Encrypt a file, and Upload it online
 36	Window Manager
@@ -75,7 +75,7 @@ Medium
 40	Markdown (HTML/XML) Editor
 41	IP Tracking Visualization
 48	Music Visualizer
-49	Unicode Converter #	(Support for UTF-8, 16LE, 32LE, and 32BE)
+49	Unicode Converter (Support for UTF-8, 16LE, 32LE, and 32BE)
 51	Least Squares Fitting Algorithm
 54	Hide and Extract Data in images (Basic Steganography) #	(BONUSL Include .gif support)
 55	Web Page crawler
@@ -98,7 +98,7 @@ Medium
 82	Write an interpreted LISP-Like programming language
 84	Universal Asynchronous Receiver/Transmitter (UART) Game (In assembly)
 90	Static Website Generator (Scriptable templates + Content -> HTML and CSS)
-91	Chip-8 Emulator #	(Hard Mode: Cached interpreter. Fuck You: Dynamic Recompiler, use dynarec/jit library)
+91	Chip-8 Emulator (Hard Mode: Cached interpreter. Fuck You: Dynamic Recompiler, use dynarec/jit library)
 92	Double Pendulum Simulation
 93	Constructive Solid Geometry
 97	Generate a 5-Color Scheme from the most dominant tones in any image
@@ -107,7 +107,7 @@ Medium
 106	Tetris
 108	Pipe Dreams
 109	Pac Man, With Different Behaviors for each ghost
-113	Shuffle a Deck of Cards #	(include a visualization)
+113	Shuffle a Deck of Cards (include a visualization)
 114	Simulate a game of Tag using a multi-agent system
 116	Scorched Earth Clone
 117	Minesweeper
@@ -133,7 +133,7 @@ Difficult
 22	Sound Synthesis (Sine, square, sawtooth, etc...)
 27	Create a Torrent Client (CLI or GUI)
 28	Booru Client
-32	Chan aggregator (Let's user view various boards from different 'chans') #	(BONUS: Add 4ChanX and Archiving funcionality)
+32	Chan aggregator (Let's user view various boards from different 'chans') (BONUS: Add 4ChanX and Archiving funcionality)
 34	Make a Text Editor that autosaves and includes the data in the filename
 70	OpenAI Gym Project
 77	Convolutional Neural Network: Implement your own Convolutional Neural Network for handwritten digit recognition, test on MNIST Dataset (Without TensorFlow, Theano, etc...)
@@ -149,7 +149,7 @@ Difficult
 105	Monster Raising/Breeding Simulator
 110	Dragon Quest/Basic RPG Engine
 112	First-person Engine in OpenGL (Walking, Looking Around, jumping on obstacles)
-115	Wolfenstein Clone (FPS, Twi-dimensionalmap that appears to be 3D) #	(If you need a starting point, search for bisquit's video about DOOM-like Engines)
+115	Wolfenstein Clone (FPS, Twi-dimensionalmap that appears to be 3D) (If you need a starting point, search for bisquit's video about DOOM-like Engines)
 120	Danmaku (Bullet Hell) Engine
 121	Rougelike Engine/Dungeon Generator
 126	Go (No AI Necessary)
@@ -158,6 +158,6 @@ Difficult
 144	WMS viewer that isn't web based
 
 Fuck You
-37	Basic Relational Database Software # (SQL Support, Handle Relationships, Focus on Efficiency)
-79	Basic Bootloader # (With extended file system)
+37	Basic Relational Database Software (SQL Support, Handle Relationships, Focus on Efficiency)
+79	Basic Bootloader (With extended file system)
 98	General Lambert's-problem Solver
