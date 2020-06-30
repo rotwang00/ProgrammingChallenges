@@ -41,7 +41,7 @@ DONE    44 Fizzbuzz (BONUS: In assembly)
 122	Design a Game Engine in Unity
 123 	Yahtzee
 124	Oil Panic
-127 	Connect Four
+DONE  127 	Connect Four
 132	Simon
 134	Ulam Spiral
 138	PDF Tagger
