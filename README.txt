@@ -23,7 +23,7 @@ DONE    44 Fizzbuzz (BONUS: In assembly)
 47	Tower of Hanoi
 50	Calculate the first (n) digits of pi
 52	Given an Array of Stocks's values ofer time, find the period of time where the stocks could have made the most money
-53	Highest Prime Factor Calculator
+DONE    53	Highest Prime Factor Calculator
 56	Password Generator (Let User Choose Options)
 59	Ceasar Cipher Cracker
 61	ROT 13
